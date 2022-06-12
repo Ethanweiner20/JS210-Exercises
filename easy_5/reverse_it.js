@@ -1,3 +1,5 @@
+'use strict';
+
 // Reverse It
 
 function reverseWords(string) {

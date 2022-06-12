@@ -1,3 +1,5 @@
+'use strict';
+
 // Letter Swap
 
 function swap(string) {

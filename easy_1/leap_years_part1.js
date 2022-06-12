@@ -1,3 +1,5 @@
+'use strict';
+
 // Leap Years Part 1
 
 // By ordering the conditions correctly, we can properly cover all the cases

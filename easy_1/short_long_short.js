@@ -1,3 +1,5 @@
+'use strict';
+
 // Short Long Short
 
 // Version 1: Conditional logic

@@ -1,3 +1,7 @@
+'use strict';
+
+'use strict'
+
 // Invoice
 
 function invoiceTotal(...amounts) {

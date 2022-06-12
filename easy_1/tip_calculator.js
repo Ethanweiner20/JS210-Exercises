@@ -1,3 +1,5 @@
+'use strict';
+
 // Tip Calculator
 
 const rlSync = require('readline-sync');

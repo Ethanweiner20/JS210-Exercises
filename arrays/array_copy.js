@@ -1,3 +1,5 @@
+'use strict';
+
 // Array Copy
 
 function copyArrayV1(arr) {

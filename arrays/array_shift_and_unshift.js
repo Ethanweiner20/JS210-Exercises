@@ -1,3 +1,7 @@
+'use strict';
+
+'use strict'
+
 // Array Shift and Unshift
 
 function shift(array) {

@@ -1,3 +1,5 @@
+'use strict';
+
 // After Midnight Part 1
 
 const MINUTES_PER_HOUR = 60;

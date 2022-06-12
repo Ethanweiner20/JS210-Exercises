@@ -1,3 +1,5 @@
+'use strict';
+
 // Combining Arrays
 
 // function union(...arrs) {

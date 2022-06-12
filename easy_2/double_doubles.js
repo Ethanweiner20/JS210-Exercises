@@ -1,3 +1,5 @@
+'use strict';
+
 // Double Doubles
 
 function twice(number) {

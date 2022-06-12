@@ -1,3 +1,5 @@
+'use strict'
+
 // Counting Up
 
 function sequence(upperBound) {

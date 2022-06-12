@@ -1,3 +1,5 @@
+'use strict'
+
 // Double Char Part 2
 
 // Idea: Double all characters except non-word characters (\W), digits (\d),

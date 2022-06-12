@@ -1,3 +1,5 @@
+'use strict'
+
 // Conditionals 2
 
 if (condition1) {

@@ -1,3 +1,5 @@
+'use strict';
+
 // Array Pop and Push
 
 function pop(array) {

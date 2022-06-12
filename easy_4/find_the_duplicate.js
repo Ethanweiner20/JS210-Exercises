@@ -1,3 +1,7 @@
+'use strict';
+
+'use strict'
+
 // Find the Duplicate
 
 // Iterate w/ an accumnulator of elements seen so fa; if current element's been

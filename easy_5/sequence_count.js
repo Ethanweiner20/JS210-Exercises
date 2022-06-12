@@ -1,3 +1,5 @@
+'use strict'
+
 // Sequence Count
 
 function sequence(count, start) {

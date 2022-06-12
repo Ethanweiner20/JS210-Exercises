@@ -1,3 +1,5 @@
+'use strict';
+
 // Digits List
 
 // Using strings

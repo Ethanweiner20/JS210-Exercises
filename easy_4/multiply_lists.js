@@ -1,3 +1,5 @@
+'use strict';
+
 // Multiply Lists
 
 function multiplyList(arr1, arr2) {

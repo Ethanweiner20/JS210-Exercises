@@ -1,3 +1,5 @@
+'use strict'
+
 // Reverse Number
 
 // String-Based

@@ -1,3 +1,5 @@
+'use strict';
+
 // When Will I Retire
 
 const rlSync = require('readline-sync');

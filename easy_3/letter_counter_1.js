@@ -1,3 +1,5 @@
+'use strict';
+
 // Letter Counter Part 1
 
 function wordSizes(string) {

@@ -1,3 +1,5 @@
+'use strict'
+
 // Arithmetic Integer
 
 const rlSync = require("readline-sync");

@@ -1,12 +1,14 @@
+'use strict';
+
 // Daily Double
 
 function crunch(string) {
   let crunched = '';
 
   for (let index = 0; index < string.length; index++) {
-    const current_char = string[index];
-    if (current_char !== string[index - 1]) {
-      crunched += current_char;
+    const currentChar = string[index];
+    if (currentChar !== string[index - 1]) {
+      crunched += currentChar;
     }
   }
 

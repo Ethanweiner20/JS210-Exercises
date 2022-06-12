@@ -1,3 +1,5 @@
+'use strict';
+
 // Searching 101
 
 const rlSync = require('readline-sync');

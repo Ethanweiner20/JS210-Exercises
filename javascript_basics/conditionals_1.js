@@ -1,3 +1,5 @@
+'use strict'
+
 // Conditionals Part 1
 
 const myBoolean = true;

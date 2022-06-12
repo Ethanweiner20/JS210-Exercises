@@ -1,3 +1,5 @@
+'use strict'
+
 // Double Char Part 1
 
 function repeater(string) {

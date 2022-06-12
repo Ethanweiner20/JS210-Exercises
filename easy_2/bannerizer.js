@@ -1,3 +1,5 @@
+'use strict';
+
 // Bannerizer
 
 function logInBox(string) {

@@ -1,3 +1,5 @@
+'use strict';
+
 // Array and String Reverse
 
 function reverse(inputForReversal) {

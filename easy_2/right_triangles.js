@@ -1,3 +1,5 @@
+'use strict';
+
 // Right Triangles
 
 function triangle(n) {

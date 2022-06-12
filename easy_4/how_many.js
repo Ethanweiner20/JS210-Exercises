@@ -1,3 +1,5 @@
+'use strict';
+
 // How Many
 
 function countOccurrences(vehicles) {

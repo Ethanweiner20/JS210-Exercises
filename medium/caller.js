@@ -1,3 +1,7 @@
+'use strict';
+
+'use strict'
+
 // Caller
 
 function makeDoubler(caller) {

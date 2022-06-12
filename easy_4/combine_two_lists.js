@@ -1,3 +1,7 @@
+'use strict';
+
+'use strict'
+
 // Combine Two Lists
 
 function interleave(arr1, arr2) {

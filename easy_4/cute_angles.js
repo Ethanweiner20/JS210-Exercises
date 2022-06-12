@@ -1,3 +1,5 @@
+'use strict';
+
 // Cute Angles
 
 const DEGREE = '\xB0';

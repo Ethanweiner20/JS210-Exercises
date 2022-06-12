@@ -1,10 +1,6 @@
-// What Century is That
+'use strict';
 
-function century(year) {
-  const century = String(centuryNumber(year));
-  const suffix = centurySuffix(century);
-  return century + suffix;
-}
+// What Century is That
 
 const centuryNumber = (year) => Math.ceil(year / 100);
 const centurySuffix = (century) => {
@@ -23,6 +19,12 @@ const centurySuffix = (century) => {
       return 'th';
   }
 };
+
+function century(year) {
+  const century = String(centuryNumber(year));
+  const suffix = centurySuffix(century);
+  return century + suffix;
+}
 
 console.log(century(2000)); // "20th"
 console.log(century(2001)); // "21st"

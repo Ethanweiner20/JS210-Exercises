@@ -1,3 +1,7 @@
+'use strict';
+
+'use strict'
+
 // Array Slice and Splice
 
 function slice(array, begin, end) {

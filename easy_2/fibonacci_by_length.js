@@ -1,3 +1,5 @@
+'use strict';
+
 // Fibonacci Number Location by Length
 
 function findFibonacciIndexByLength(numDigits) {

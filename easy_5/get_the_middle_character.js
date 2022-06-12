@@ -1,3 +1,5 @@
+'use strict';
+
 // Get the Middle Character
 
 // e.g. length = 6 -> middleStart = 6 / 2 - 1 = ceil(2) = 2

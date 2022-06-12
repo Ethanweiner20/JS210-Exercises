@@ -1,3 +1,5 @@
+'use strict';
+
 // Multiplicative Average
 
 function showMultiplicativeAverage(integers) {

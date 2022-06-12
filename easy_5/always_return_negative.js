@@ -1,3 +1,5 @@
+'use strict'
+
 // Always Return Negative
 
 function negative(number) {

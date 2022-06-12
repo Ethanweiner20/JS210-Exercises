@@ -1,3 +1,5 @@
+'use strict';
+
 // How Big is the Room
 
 const rlSync = require('readline-sync');

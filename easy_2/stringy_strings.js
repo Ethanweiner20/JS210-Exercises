@@ -1,6 +1,8 @@
+'use strict';
+
 // Stringy Strings
 
-/* 
+/*
 Options:
 - Toggle 1/0 until reached count
 - Use property of current index (even/odd)

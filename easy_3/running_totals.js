@@ -1,3 +1,5 @@
+'use strict';
+
 // Running Totals
 
 // Increments the total and returns the new total for transformation

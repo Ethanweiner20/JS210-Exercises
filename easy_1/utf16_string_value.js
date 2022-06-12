@@ -1,3 +1,5 @@
+'use strict';
+
 // UTF-16 String Value
 
 // Sum character codes of all values

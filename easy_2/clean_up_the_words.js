@@ -1,3 +1,5 @@
+'use strict';
+
 // Clean Up the Words
 
 // Option 1: Straightforward; Option 2: Regex pattern replacement

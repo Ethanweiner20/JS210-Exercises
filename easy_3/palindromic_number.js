@@ -1,3 +1,5 @@
+'use strict'
+
 // Palindromic Number
 
 function isPalindromicNumber(number) {

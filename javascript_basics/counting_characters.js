@@ -1,3 +1,5 @@
+'use strict';
+
 // Counting Characters
 
 const rlSync = require("readline-sync");

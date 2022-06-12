@@ -1,3 +1,5 @@
+'use strict';
+
 // Palindromic Strings Part 2
 
 function isRealPalindrome(string) {

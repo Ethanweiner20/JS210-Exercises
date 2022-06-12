@@ -1,3 +1,5 @@
+'use strict';
+
 // Array Average
 
 // No need to provide initial value to `reduce`, because it will never be empty

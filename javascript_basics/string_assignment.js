@@ -1,3 +1,5 @@
+'use strict';
+
 // String Assignment
 
 const name = "Bob";

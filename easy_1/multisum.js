@@ -1,3 +1,5 @@
+'use strict';
+
 // Multiples of 3 and 5
 
 function multisum(limit) {

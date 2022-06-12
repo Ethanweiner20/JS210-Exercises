@@ -1,3 +1,5 @@
+'use strict';
+
 // Halvsies
 
 function halvsies(arr) {

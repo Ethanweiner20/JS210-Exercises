@@ -1,3 +1,5 @@
+'use strict';
+
 // How Old is Teddy
 
 function randInRange(min, max) {
